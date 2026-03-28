@@ -7,3 +7,6 @@
 - this blog set a stone for my future projects on creative appraches in  math science and engineering 
 - many things i forget i will write in my blog if its a new aprroaches or my mistakes 
 - its like a diary for myself to be noted and used accordingly 
+
+
+- i will start doing and building this blog side by side yup 

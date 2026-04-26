@@ -1,0 +1,13 @@
+title: "My First Post"
+slug: "my-first-post"
+date: "2026-04-26"
+author: "nitin"
+tags: ["nextjs", "yaml"]
+
+blocks:
+  - type: text
+    value: "This is my blog post"
+
+  - type: code
+    language: "python"
+    value: "print('Hello world')"

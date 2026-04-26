@@ -3,15 +3,16 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>
-        <nav>
-            <ul>
-                {/* <li><Link to = '/'>Home</Link></li> */}
-                <li><Link href = '/'>Home</Link></li>
-                <li><Link href = '/about'>About</Link></li>
-                <li><Link href = '/contact'>Contact</Link></li>
-                <li><Link href = '/blog'>Blog</Link></li>
-            </ul>
+    <div className='flex-row w-full m-auto p-4'>
+        <nav className='flex items-center justify-center'>
+            <div className='text-2xl'>SudoZen Logs</div>
+            <div >
+              <ul className='flex gap-4 p-4'>
+                <li >home</li>
+                <li>pages</li>
+                <li>about</li>
+              </ul>
+            </div>
         </nav>
     </div>
   )

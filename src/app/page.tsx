@@ -1,14 +1,14 @@
+import Footer from "@/Component/Footer";
+import Hero from "@/Component/Hero";
 import Navbar from "@/Component/Navbar";
-import Image from "next/image";
 
+// sudozen logs
 export default function Home() {
   return (
     <>
-    <div>
-      <Navbar />
-      <h1>Home</h1>
-      <p>lol its working a lot faster than i know</p>
-    </div>
+    <Navbar />
+    <Hero/>
+    <Footer/>
     </>
   );
 }

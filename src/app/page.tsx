@@ -1,6 +1,6 @@
-import Footer from "@/Component/Footer";
-import Hero from "@/Component/Hero";
-import Navbar from "@/Component/Navbar";
+import Footer from "@/Component/shared/Footer";
+import Hero from "@/Component/ui/Hero";
+import Navbar from "@/Component/shared/Navbar";
 
 // sudozen logs
 export default function Home() {
